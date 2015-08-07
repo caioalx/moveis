@@ -1,6 +1,6 @@
 Exericio do livro "Controlando versões com git e github".
 
-Página Atual: 71
+Página Atual: 92
 
 
 http://nvie.com/posts/a-successful-git-branching-model/
